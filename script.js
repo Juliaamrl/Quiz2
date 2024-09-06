@@ -62,7 +62,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = `Você se encaixa no universo de..., ${nome}`;
+    caixaPerguntas.textContent = `Você se encaixa no universo de... ${nome}`;
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
     caixaResultado.classList.add("mostrar");
