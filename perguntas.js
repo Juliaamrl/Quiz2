@@ -39,7 +39,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "O que você valoriza mais em uma equipe?",
+        enunciado: "O que você valoriza em uma equipe?",
         alternativas: [
             {
                 texto: "Lealdade e habilidades mágicas únicas.",
