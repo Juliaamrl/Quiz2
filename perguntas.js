@@ -94,42 +94,4 @@ export const perguntas = [
                 proxima: 8,
             },
         ]
-    },
-    {
-        enunciado: "Como você lida com conflitos?",
-        alternativas: [
-            {
-                texto: "Usando inteligência mágica e estratégia.",
-                afirmacao: [
-                    "Personagens Game of thrones: Tyrion Lannister"
-                ],
-            },
-            {
-                texto: "Com coragem, combate e habilidades especiais.",
-                afirmacao: [
-                    "Personagem senhor dos anéis: Gandalf"
-                ],
-                proxima: 9,
-            },
-        
-        ]
-    },
-    {
-        enunciado: "Se você encontrasse um mapa antigo, o que esperaria encontrar?",
-        alternativas: [
-            {
-                texto: "Segredos mágicos e lugares escondidos de poder.",
-                afirmacao: [
-                    "Personagem senhor dos anéis: Gandalf"
-                ],
-            },
-            {
-                texto: "Rotas para planetas desconhecidos e aventuras intergalácticas.",
-                afirmacao: [
-                    "Personagens Game of thrones: Tyrion Lannister"
-                ],
-                proxima: 10,
-            },
-        ]
-    }
-]
+
