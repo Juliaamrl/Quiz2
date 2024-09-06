@@ -86,8 +86,10 @@ export const perguntas = [
                 ],
                 proxima: 7,
             },
-            {
-                texto: "Uma galáxia distante com planetas exóticos e aventuras espaciais.",
+        ]
+    },
+    {
+        texto: "Uma galáxia distante com planetas exóticos e aventuras espaciais.",
                 afirmacao: [
                     "Personagens de Star Wars: Yoda, Luke, Darth Vaider, Obi wan Kenobi."
                 ],
@@ -96,58 +98,45 @@ export const perguntas = [
         ]
     {
             {
-                
-            
-                ],
-                proxima: 3,
-            },
-            {
-                texto: " Um Jedi ou piloto habilidoso com um sabre de luz",
-                afirmacao: [
-                    "Você viveria no universo de Game of Thrones, manobrando intrigas políticas."
-                ],
-                proxima: 4,
+                  proxima: 8,
             },
         ]
     },
     {
-        enunciado: "O que você valoriza em uma equipe?",
+        enunciado: "Como você lida com conflitos?",
         alternativas: [
             {
-                texto: "Lealdade e habilidades mágicas únicas.",
+                texto: "Usando inteligência mágica e estratégia.",
                 afirmacao: [
-                    "Estudando feitiçarias e vivendo aventuras em uma escola encantadora."
-                ],
-                proxima: 3,
-            },
-            {
-                texto: "Coragem, habilidades de combate e lealdade",
-                afirmacao: [
-                    "Poderes Jedi e aventuras intergalácticas."
-                ],
-                proxima: 4,
-            },
+                    "Personagens Game of thrones: Tyrion },
         ]
     },
     {
-        enunciado: "Qual é o seu item favorito para uma aventura?",
-        alternativas: [
-            {
-                texto: "Uma varinha mágica ou um grimório de feitiços.",
+                texto: "Com coragem, combate e habilidades especiais.",
                 afirmacao: [
-                    "Enfrentando criaturas míticas e lutando contra forças das trevas em uma terra lendária."
+                    "Personagem senhor dos anéis: Gandalf"
                 ],
-                proxima: 5,
+                proxima: 9,
             },
-            {
-                texto: "Um sabre de luz ou uma nave espacial avançada",
-                afirmacao: [
-                    "Sobrevivendo em um mundo medieval complexo e desafiador."
-                ],
-                proxima: 6,
-            },
-        ]
-    },
-    {
-        ]
 
+        ]
+    },
+    {
+        enunciado: "Se você encontrasse um mapa antigo, o que esperaria encontrar?",
+        alternativas: [
+            {
+                texto: "Segredos mágicos e lugares escondidos de poder.",
+                afirmacao: [
+                    "Personagem senhor dos anéis: Gandalf"
+                ],
+            },
+            {
+                texto: "Rotas para planetas desconhecidos e aventuras intergalácticas.",
+                afirmacao: [
+                    "Personagens Game of thrones: Tyrion Lannister"
+                ],
+                proxima: 10,
+           },
+        ]
+    },
+    {
