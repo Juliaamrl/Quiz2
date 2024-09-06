@@ -25,7 +25,7 @@ export const perguntas = [
                 texto: "Um mago ou bruxa com poderes encantadores.",
                 afirmacao: [
                     "Você pertence ao universo de Senhor dos Anéis, embarcando em jornadas heroicas.",
-    
+
                 ],
                 proxima: 3,
             },
@@ -39,7 +39,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "O que você valoriza em uma equipe?",
+        enunciado: "O que você valoriza mais em uma equipe?",
         alternativas: [
             {
                 texto: "Lealdade e habilidades mágicas únicas.",
@@ -86,19 +86,12 @@ export const perguntas = [
                 ],
                 proxima: 7,
             },
-        ]
-    },
-    {
-        texto: "Uma galáxia distante com planetas exóticos e aventuras espaciais.",
+            {
+                texto: "Uma galáxia distante com planetas exóticos e aventuras espaciais.",
                 afirmacao: [
                     "Personagens de Star Wars: Yoda, Luke, Darth Vaider, Obi wan Kenobi."
                 ],
                 proxima: 8,
-            },
-        ]
-    {
-            {
-                  proxima: 8,
             },
         ]
     },
@@ -108,10 +101,10 @@ export const perguntas = [
             {
                 texto: "Usando inteligência mágica e estratégia.",
                 afirmacao: [
-                    "Personagens Game of thrones: Tyrion },
-        ]
-    },
-    {
+                    "Personagens Game of thrones: Tyrion Lannister"
+                ],
+            },
+            {
                 texto: "Com coragem, combate e habilidades especiais.",
                 afirmacao: [
                     "Personagem senhor dos anéis: Gandalf"
@@ -136,7 +129,7 @@ export const perguntas = [
                     "Personagens Game of thrones: Tyrion Lannister"
                 ],
                 proxima: 10,
-           },
+            },
         ]
-    },
-    {
+    }
+]
