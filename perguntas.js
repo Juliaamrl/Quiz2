@@ -19,13 +19,9 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Qual é o seu tipo de herói ideal?",
-        alternativas: [
             {
-                texto: "Um mago ou bruxa com poderes encantadores.",
-                afirmacao: [
-                    "Você pertence ao universo de Senhor dos Anéis, embarcando em jornadas heroicas.",
-    
+                
+            
                 ],
                 proxima: 3,
             },
@@ -77,21 +73,5 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Qual é o seu cenário ideal para uma aventura?",
-        alternativas: [
-            {
-                texto: "Uma escola de magia cheia de mistérios e feitiçaria.",
-                afirmacao: [
-                    "Personagens Harry Potter: Harry, Hermione, Luna, Ronny, Draco Malfoy ."
-                ],
-                proxima: 7,
-            },
-            {
-                texto: "Uma galáxia distante com planetas exóticos e aventuras espaciais.",
-                afirmacao: [
-                    "Personagens de Star Wars: Yoda, Luke, Darth Vaider, Obi wan Kenobi."
-                ],
-                proxima: 8,
-            },
         ]
 
